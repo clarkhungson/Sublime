@@ -1,0 +1,12 @@
+{
+	"animation_enabled": true,
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"PlantUmlDiagrams",
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": true
+}
